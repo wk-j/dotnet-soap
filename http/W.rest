@@ -1,1 +1,4 @@
 GET http://localhost:5116/Service.asmx
+
+###
+GET http://localhost:5116/Service.svc
